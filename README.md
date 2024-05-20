@@ -1,3 +1,4 @@
-### Hi there 👋, I'm Sadaru Hansaka
-
-![Description](https://github.com/Sadaru-Hansaka/Sadaru-Hansaka/blob/5083b129aa46e57ead78007ee6630579f650f173/25469811_developer_male-removebg-preview.png)
+<h1 align="center">Hi there 👋, Welcome to my GitHub profile🙋‍♂.</h1>
+<p align="center">
+<img src="https://github.com/Sadaru-Hansaka/Sadaru-Hansaka/blob/6ebf228ed72c068902e250aa9e4d1313f3aa17a8/hello.png" width="300">
+</p>
